@@ -1,5 +1,5 @@
 <!--
-  NOTE :   To access the repo, you should have knowledge        of     basic JavaScript. We will use the language only for the backend.
+  NOTE :   To access the repo, you should have knowledge of basic JavaScript. We will use the language only for the backend.
  -->
 
 <!--
